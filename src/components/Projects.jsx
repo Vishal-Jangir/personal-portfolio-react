@@ -32,7 +32,7 @@ function Projects(){
               <div className="card-body">
                 <h5>Portfolio Website</h5>
                 <p>Responsive portfolio using React.</p>
-                <button className="btn btn-primary">View</button>
+                <a href="https://personal-portfolio-react-rouge.vercel.app/" className="btn btn-primary">View</a>
               </div>
             </div>
           </div>
