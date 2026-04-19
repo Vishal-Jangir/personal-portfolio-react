@@ -22,7 +22,7 @@ function Projects(){
               <div className="card-body">
                 <h5>Weather App</h5>
                 <p>Weather application using API.</p>
-                <button className="btn btn-primary">View</button>
+                <a href="https://weather-app-tawny-six-27.vercel.app/" className="btn btn-primary" target="_blank">View</a>
               </div>
             </div>
           </div>
