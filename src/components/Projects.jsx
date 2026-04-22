@@ -12,7 +12,7 @@ function Projects(){
               <div className="card-body">
                 <h5>Todo List App</h5>
                 <p>Task manager with JavaScript.</p>
-                <button className="btn btn-primary">View</button>
+                <a href="https://todo-list-react-iota-orpin.vercel.app/" className="btn btn-primary">View</a>
               </div>
             </div>
           </div>
